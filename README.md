@@ -1,24 +1,27 @@
-# vue-weather
+<h1 align="center">Vue Weather</h1>
 
-## Project setup
-```
-yarn install
-```
+ <p align="center">
+   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+ <p align="center">
+    <img alt="print" src="src/assets/print.gif" >
+ </p>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+ ## :rocket: Technologies
 
-### Lints and fixes files
-```
-yarn lint
-```
+ Simple VueJS Weather App, with OpenWeather API:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ - [VueJS](https://vuejs.org)
+ - [OpenWeather](https://openweathermap.org/api)
+
+
+ ## 💻 Project
+
+Wanna see a live version ? Check it out: [Vue Weather](https://5ebc3bfd01e91680c3fec7ee--goofy-booth-08c405.netlify.app).
+
+ ---
+<h4 align="center">
+   Code and coffee ☕
+</h4>
