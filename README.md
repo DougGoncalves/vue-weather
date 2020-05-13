@@ -6,7 +6,7 @@
  </p>
 
  <p align="center">
-    <img alt="print" src="src/assets/print.gif" >
+    <img alt="print" src="assets/print.gif" >
  </p>
 
  ## :rocket: Technologies
